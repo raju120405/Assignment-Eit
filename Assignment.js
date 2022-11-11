@@ -1,18 +1,18 @@
-             // concat 
+// concat 
 /*
 const firstWord = ['We Are '];
 const EndWord = [ 'The Best Friend'];
 const AddWord = firstWord.concat(   EndWord);
 console.log(AddWord);
 */
-               //fill
+//fill
 /*
 const friends = ['Raju','Tuhin','shipon'];
 friends.fill('Arafat');
 console.log(friends)
 */
 
-             // find
+// find
 /*
 const friendList = [
     {name:'raju',age:22},
@@ -23,9 +23,13 @@ const oldestFriend = friendList.find(friend => friend.age == 22);
 console.log(oldestFriend);
 
 */
-            //   filter
+//   filter
 /*          
 const friendAge = [17,20,18,19,23];
 const seniorFriend = friendAge.filter(Number => Number > 20);
 console.log(seniorFriend);
 */
+// findIndex
+// const friendAge = [17, 20, 18, 19, 23];
+// const seniorFriend =friendAge.findIndex(age => age>20);
+// console.log(seniorFriend);               
