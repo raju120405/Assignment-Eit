@@ -38,3 +38,12 @@ console.log(seniorFriend);
 
 // const friendName = [ 'adnan','tuhin', 'shipon','raju'];
 // friendName.forEach(name => console.log(name));
+
+// map()
+//  const products = [
+//     {name:'phone', brand:'Realme', price: 25000,},
+//     {name:'camera', brand:'Canon', price: 55000,},
+//     {name:'laptop', brand:'Hp', price: 25000,}
+//  ];
+//  const brand = products.map(product => product.brand);
+//  console.log(brand);
