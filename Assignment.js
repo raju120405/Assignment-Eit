@@ -32,4 +32,9 @@ console.log(seniorFriend);
 // findIndex
 // const friendAge = [17, 20, 18, 19, 23];
 // const seniorFriend =friendAge.findIndex(age => age>20);
-// console.log(seniorFriend);               
+// console.log(seniorFriend); 
+
+// forEach()     
+
+// const friendName = [ 'adnan','tuhin', 'shipon','raju'];
+// friendName.forEach(name => console.log(name));
